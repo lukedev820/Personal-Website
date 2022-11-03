@@ -1,5 +1,5 @@
 ---
-title: ".xyz domain rant"
+title: "xyz domain rant"
 date: 2022-11-03T21:33:42+08:00
 draft: false
 ---
@@ -7,4 +7,4 @@ When I switched from a nicer looking but harder to maintain website to this modi
 
 I have no idea why my domain keeps getting flagged but its infuriating because I don't find out until I go to show my website to someone just to find its been purged from existence. I could just remove my domain and use the default url provided by github pages but it's too lengthy, hard to remember, and github is blocked by my schools firewall 😅.
 
-If you have had a similar experience and or know how to avoid this from happening please feel free to <a href="mailto:raidernight920@gmail.com?subject=Possible solution to your domain troubles">send me an email.</a>
+If you've had a similar experience and or know how to avoid this from happening please feel free to <a href="mailto:raidernight920@gmail.com?subject=Possible solution to your domain troubles">send me an email.</a>
