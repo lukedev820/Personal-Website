@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Luke Lipscombe&#39;s Site 🐈</title>
+    <link>https://luke-projects.xyz/</link>
+    <description>Recent content in Home on Luke Lipscombe&#39;s Site 🐈</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 03 Nov 2022 21:33:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://luke-projects.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>.xyz domain rant</title>
+      <link>https://luke-projects.xyz/.xyz-domain-rant/</link>
+      <pubDate>Thu, 03 Nov 2022 21:33:42 +0800</pubDate>
+      
+      <guid>https://luke-projects.xyz/.xyz-domain-rant/</guid>
+      <description>&lt;p&gt;When I switched from a nicer looking but harder to maintain website to this modified hugo theme, I wanted share it with friends and family for feedback. Not even 5 days later my domain gets taken down with no warning or notice. I contacted my domain registrar and after some back and fourth they told me to contact .xyz to get my domain unsuspended. Once I contacted .xyz I got my domain unsuspended the next day and I thought it was the end of it but I was far from correct. I have just had my domain unsuspended for a third time in the span of 30 days and I&amp;rsquo;m not getting any solid answer as to why apart from &amp;ldquo;SMS Phishing&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I have no idea why my domain keeps getting flagged but its infuriating because I don&amp;rsquo;t find out until I go to show my website to someone just to find its been purged from existence. I could just remove my domain and use the default url provided by github pages but it&amp;rsquo;s too lengthy, hard to remember, and github is blocked by my schools firewall 😅.&lt;/p&gt;
+&lt;p&gt;If you have had a similar experience and or know how to avoid this from happening please feel free to &lt;a href=&#34;mailto:raidernight920@gmail.com?subject=Possible solution to your domain troubles&#34;&gt;send me an email.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>console.log(&#34;hello world&#34;)</title>
+      <link>https://luke-projects.xyz/console.loghello-world/</link>
+      <pubDate>Wed, 19 Oct 2022 17:11:30 +0800</pubDate>
+      
+      <guid>https://luke-projects.xyz/console.loghello-world/</guid>
+      <description>&lt;p&gt;Hello World! If you and me are able to read this I have successfully made a blog using Hugo!&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+    &lt;img src=&#34;https://luke-projects.xyz/hello-world.gif&#34;&gt;
+&lt;/p&gt;
+&lt;p&gt;A hello world is pretty boring on its own so allow me to introduce myself.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Luke Lipscombe, and I am currently a student who likes to self teach programming in my spare time. I use Linux as my daily driver and i have been for about 2 years at the time of writing this.&lt;/p&gt;
+&lt;p&gt;In these blog posts I want to share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My programming journey.&lt;/li&gt;
+&lt;li&gt;The projects i make with the process behind them in detail.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also just realised this is my first ever blog post. Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
