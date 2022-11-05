@@ -15,6 +15,12 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 9
+  [[menu.main]]
     identifier = "github"
     name = "github"
     title = "github"
