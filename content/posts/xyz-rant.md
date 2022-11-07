@@ -1,5 +1,5 @@
 ---
-title: "xyz domain rant"
+title: "xyz is being a pain"
 date: 2022-11-03T21:33:42+08:00
 draft: false
 ---
