@@ -39,6 +39,9 @@ summary {
 }
 header#banner {
     margin: 25px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header#banner a {
@@ -153,16 +156,12 @@ main#content ul#posts li a {
 main#content ul#posts li a:hover {
     color: #369aff;
 }
-main#content ul#posts li a{
+main#content ul#posts li {
     padding: 10px;
     border-radius: 15px;
     background-color: #ebdbb2;
 }
 
-main#content ul#posts li:hover{
-    margin-left: 30px;
-    transform: scale(1.1);
-}
 
 main#content ul#posts li a:hover small {
     color: inherit;

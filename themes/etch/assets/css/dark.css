@@ -45,7 +45,7 @@ main#content ul#posts li a:hover {
     color: #21c7ff;
 }
 
-main#content ul#posts li a{
+main#content ul#posts li {
     background-color: #3c3836;
 }
 
