@@ -15,23 +15,29 @@ publishDir = "docs"
 
 [menu]
   [[menu.main]]
+    identifier = "personal projects"
+    name = "Personal Projects 🌱"
+    title = "Personal Projects 🌱"
+    url = ""
+    weight = 9
+  [[menu.main]]
     identifier = "about"
-    name = "about"
-    title = "about"
+    name = "about 📝"
+    title = "about 📝"
     url = "/about/"
     weight = 9
   [[menu.main]]
     identifier = "github"
-    name = "github"
-    title = "github"
+    name = "github 🖥️"
+    title = "github 🖥️"
     url = "https://github.com/lukedev820"
-    weight = 10
+    weight = 15
   [[menu.main]]
     identifier = "contact"
-    name = "contact"
-    title = "contact"
+    name = "contact 📧"
+    title = "contact 📧"
     url = "mailto:raidernight920@gmail.com"
-    weight = 11
+    weight = 50
 
 [permalinks]
   posts = "/:title/"
