@@ -1,4 +1,4 @@
-baseURL = "https://luke-projects.xyz"
+baseURL = "https://lukedev820.github.io/Personal-Website/"
 title = "Luke Lipscombe's Site 🐈"
 theme = "etch"
 languageCode = "en-US"
@@ -14,12 +14,6 @@ publishDir = "docs"
   highlight = true
 
 [menu]
-  [[menu.main]]
-    identifier = "personal projects"
-    name = "Personal Projects 🌱"
-    title = "Personal Projects 🌱"
-    url = ""
-    weight = 9
   [[menu.main]]
     identifier = "about"
     name = "about 📝"
