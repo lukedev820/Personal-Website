@@ -1,6 +1,6 @@
 # Personal-Website
 
-See my portfolio at <a href="https://luke-projects.xyz">luke-projects.xyz</a>
+See my portfolio at <a href="https://lukedev820.github.io/Personal-Website/">here</a>
 
 ## Credits
 <a href="https://gohugo.io/">Hugo framework</a>
